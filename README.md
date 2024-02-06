@@ -1,4 +1,4 @@
-[![MasterHead](https://4kwallpapers.com/images/wallpapers/gargantua-black-2560x1080-9621.jpg)
+[![MasterHead](blackhole.jpg)
 <h1 align="center">Hi 👋, I'm Yiğitcan Uçar (LeatherFire)</h1>
 <h3 align="center">A passionate Cyber Security Engineer and Pentester from Turkey</h3>
 
